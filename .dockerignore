@@ -1,0 +1,6 @@
+connection.json
+metadata.json
+code.tar.gz
+chaincode.tgz
+.git
+tmp
