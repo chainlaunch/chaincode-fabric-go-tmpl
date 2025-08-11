@@ -7,7 +7,6 @@ toolchain go1.23.4
 require (
 	github.com/hyperledger/fabric-chaincode-go v0.0.0-20240704073638-9fb89180dc17
 	github.com/hyperledger/fabric-contract-api-go v1.2.2
-	github.com/stretchr/testify v1.10.0
 )
 
 require (
